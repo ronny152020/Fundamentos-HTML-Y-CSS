@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+}
+
+body{
+    background-color:darksalmon;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+    color:darkviolet;
+    background-color:lightseagreen;
+    margin-bottom: 20px;
+    margin-top: 20px;
+
+    padding: 20px;
+    border: 10px solid gold;
+    font-size: 45px;
+
+    
+}
+
+#cabecera2{
+    color:cyan
+}
+
+.text-green{
+    color:darkgreen
+}
+
+.text-center{
+    text-align: center;
+}
+
+.text-left{
+    text-align: left;
+}
+
+.text-rigth{
+    text-align: right;
+}
+
+.text-justify{
+    text-align: justify;
+}
+
+p{
+    margin: 10px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.text-danger{
+    color:mediumblue;
+    font-weight: bold;
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: orangered;
+    margin: 5px;
+    float: left;
+}
+
+.header{
+    background-color:purple;
+    float: left;
+    height: 40px;
+    width: 100px;
+}
+
+.slidehar{
+    float: left;
+    width: 25%;
+    height: 400px;
+    background-color:springgreen;
+}
+
+.content{
+    float: left;
+    width: 75%;
+    height: 400px;
+    background-color:steelblue;
+}
+
+.footer{
+    float: left;
+    width: 100%;
+    height: 50px;
+    background-color:tomato;
+}
